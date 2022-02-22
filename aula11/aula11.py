@@ -10,4 +10,3 @@ if 'wê' not in nome:
     print('Executei.')
 else:
     print("Existe no texto.")
-
